@@ -21,7 +21,7 @@ Power BI (Data modeling, DAX, Visualization)
 ![Salary]http://github.com/hafiza-data/hr-analytics-dashboard/raw/main/salary_analysis.png
 
 ### Attrition Analysis
-![Attrition](PASTE_LINK_3)
+![Attrition]https://github.com/hafiza-data/hr-analytics-dashboard/raw/main/attrition_analysis.png
 
 ## Key Insights
 - Certain departments show higher attrition
