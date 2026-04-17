@@ -33,4 +33,4 @@ Power BI (Data modeling, DAX, Visualization)
 - Project documentation (PDF)
 
 - ## Data Source
-Sample HR dataset in CSV format used for analysis and dashboard creation.
+- Sample HR dataset in CSV format used for analysis and dashboard creation.
